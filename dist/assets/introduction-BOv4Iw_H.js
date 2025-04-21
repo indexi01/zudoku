@@ -1,0 +1,2 @@
+import{H as c,j as o}from"./entry.client-gckvCCPO.js";const r="My API doc with Zudoku",u=[],a={title:"Welcome to Zudoku"};function e(t){const n={p:"p",...c(),...t.components};return o.jsx(n.p,{children:"My API doc with Zudoku"})}function d(t={}){const{wrapper:n}={...c(),...t.components};return n?o.jsx(n,{...t,children:o.jsx(e,{...t})}):e(t)}export{d as default,r as excerpt,a as frontmatter,u as tableOfContents};
+//# sourceMappingURL=introduction-BOv4Iw_H.js.map
