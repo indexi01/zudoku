@@ -19,14 +19,6 @@
       "headers": {
         "Location": "/api/~endpoints"
       }
-    },
-    {
-      "src": "/",
-      "dest": "/docs/introduction",
-      "status": 301,
-      "headers": {
-        "Location": "/docs/introduction"
-      }
     }
   ]
 }
