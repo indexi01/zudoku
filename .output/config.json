@@ -5,19 +5,19 @@
   },
   "routes": [
     {
-      "src": "/zudoku/api",
-      "dest": "/zudoku/api/~endpoints",
+      "src": "/api/~endpoints",
+      "dest": "/api/",
       "status": 301,
       "headers": {
-        "Location": "/zudoku/api/~endpoints"
+        "Location": "/api/"
       }
     },
     {
-      "src": "/zudoku/api",
-      "dest": "/zudoku/api/~endpoints",
+      "src": "/api/~endpoints",
+      "dest": "/api/",
       "status": 301,
       "headers": {
-        "Location": "/zudoku/api/~endpoints"
+        "Location": "/api/"
       }
     }
   ]
