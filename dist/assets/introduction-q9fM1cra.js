@@ -1,2 +1,0 @@
-import{H as s,j as n}from"./entry.client-DhafQLUs.js";const c="To see more -> visit page About(you'll find link in the sidebar)",r=[],a={title:"Welcome to Zudoku Medical API doc"};function o(t){const e={p:"p",...s(),...t.components};return n.jsx(e.p,{children:"To see more -> visit page About(you'll find link in the sidebar)"})}function l(t={}){const{wrapper:e}={...s(),...t.components};return e?n.jsx(e,{...t,children:n.jsx(o,{...t})}):o(t)}export{l as default,c as excerpt,a as frontmatter,r as tableOfContents};
-//# sourceMappingURL=introduction-q9fM1cra.js.map
