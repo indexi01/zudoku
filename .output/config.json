@@ -5,20 +5,21 @@
   },
   "routes": [
     {
-      "src": "/api/~endpoints",
-      "dest": "/api/",
+      "src": "/api",
+      "dest": "/api/~endpoints",
       "status": 301,
       "headers": {
-        "Location": "/api/"
+        "Location": "/api/~endpoints"
       }
     },
     {
-      "src": "/api/~endpoints",
-      "dest": "/api/",
+      "src": "/api",
+      "dest": "/api/~endpoints",
       "status": 301,
       "headers": {
-        "Location": "/api/"
+        "Location": "/api/~endpoints"
       }
     }
+    
   ]
 }
